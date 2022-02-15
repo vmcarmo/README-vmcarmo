@@ -7,8 +7,8 @@ Hi, I'm Vinicius Carmo, a Back-end Developer 🚀 from Brazil.
 ##
 <div align="center">
   <a href="https://github.com/vmcarmo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vmcarmo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmcarmo&layout=compact&langs_count=7&theme=radical "/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vmcarmo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmcarmo&layout=compact&langs_count=7&theme=radical "/>
 </div>
   
 ##
