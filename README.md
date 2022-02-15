@@ -1,22 +1,21 @@
-## Hi, I'm Vinicius Carmo
+## Hi, Welcome to my profile!
 
 ### :book: About Me
 
 Hi, I'm Vinicius Carmo, a Back-end Developer 🚀 from Brazil.
 
-##
 <div align="center">
   <a href="https://github.com/vmcarmo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vmcarmo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmcarmo&layout=compact&langs_count=7&theme=radical "/>
-</div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vmcarmo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmcarmo&layout=compact&langs_count=7&theme=dark "/></div>
   
 ##
   
 ### :computer:  Techs
 
 Currently these are the technologies that I know most:
-<p>
+<div align="center">
+  <p>
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /> &nbsp;&nbsp;
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /> &nbsp;&nbsp;
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /> &nbsp;&nbsp;
@@ -31,11 +30,9 @@ Currently these are the technologies that I know most:
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> &nbsp;&nbsp;
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> &nbsp;&nbsp;
   <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> &nbsp;&nbsp;
-
+  </p></div>
   
-  
-
-</p>
+##
 
 ### :eyes: Profile Views
 
@@ -46,10 +43,4 @@ Currently these are the technologies that I know most:
     <img align="right" href="" height="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
  </a>
 </p>
-
-  
-
----
-
-  
 </div>
